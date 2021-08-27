@@ -6,7 +6,7 @@
 This set of files is meant to be a skeleton for building wxWidgets' applications in Lua (with wxLua in the middle).
 
 
-This implementation does not use any particular feature of Lua so it shall run with Lua 5.1 and wxWidgets 3.1.4 onwards.
+This implementation does not use any particular feature of Lua so it shall run with Lua 5.1 and wxWidgets 2.8.12.2 onwards.
 
 I choose the Neko icon (https://en.wikipedia.org/wiki/Neko_(software)) because I could not find any skeleton icon in my database.
 
